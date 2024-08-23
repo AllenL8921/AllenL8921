@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allen</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href='https://www.linkedin.com/in/allenxliu/'>LinkedIn</a></h3>
 <p align="left">
 </p>
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Allen</h1>
 <h3 align="center">An aspiring Full Stack Developer</h3>
-<h4 align="center">with an interest in art and videogame programming</h4>
+<h4 align="center">with an interest in art and game development</h4>
 <h3 align="left">Connect with me: <a href='https://www.linkedin.com/in/allenxliu/'>LinkedIn</a></h3>
 <p align="left">
 </p>
